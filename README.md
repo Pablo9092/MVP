@@ -1,4 +1,4 @@
-## MODEL VIEW PRESENTER ##  
+## MODEL VIEW PRESENTER  
 
 Llevar acabo una buena estructura de nuestro código, para que este sea más sencillo de entender y modificar  
 en un futuro, no es una tarea fácil. **Model View Controler** es un patrón que se separa las vistas de la lógica.  
